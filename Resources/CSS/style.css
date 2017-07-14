@@ -1,0 +1,34 @@
+h1  {
+  Font-weight: 0;
+  font-size: 50px;
+}
+h1, h2 {
+  text-align: center;
+  font-family: Verdana;
+  color: white;
+}
+.link {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+h2 {
+  Font-weight: 300;
+  font-size: 42px;
+  }
+p {
+  Font-family: Verdana;
+  color: gray;
+  font-size: 21px;
+  text-align: center;
+}
+.video, .photo {
+  text-align: center;
+}
+body {
+  background-color: black;
+  }
+.footer {
+  text-align: right;
+  color: gray;
+}
